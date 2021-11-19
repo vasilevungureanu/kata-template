@@ -1,4 +1,4 @@
-package com.vasileungureanu.katas.fizzbuzz;
+package com.vasileungureanu.kata.fizzbuzz;
 
 public final class FizzBuzz {
     public String convert(int number) {

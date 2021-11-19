@@ -1,3 +1,3 @@
-# Katas
+# Kata Template Java
 
-My personal solutions to many small programming problems, known as Katas.
+A template for starting quickly with a Kata.

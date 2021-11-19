@@ -1,4 +1,4 @@
-package com.vasileungureanu.katas.leapyear;
+package com.vasileungureanu.kata.leapyear;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package com.vasileungureanu.katas.leapyear;
+package com.vasileungureanu.kata.leapyear;
 
 public final class Year {
     private final int year;
