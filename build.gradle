@@ -1,5 +1,12 @@
 plugins {
     id 'java'
+    id 'idea'
+}
+
+sourceSets {
+    test {
+        java.srcDir file('src/test/java/')
+    }
 }
 
 repositories {
@@ -19,4 +26,8 @@ dependencies {
 
 test {
     useJUnitPlatform()
+
+    testLogging {
+        events 'passed', 'skipped', 'failed'
+    }
 }
